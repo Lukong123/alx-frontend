@@ -426,7 +426,7 @@ a:hover {
     text-decoration: underline;
 }
 
-a:hover {
+a:active {
     background-color: var(--color-light-grey);
 }
 

@@ -409,7 +409,7 @@ a:visited {
     font-style: italic;
 }
 
-a:hover {
+a:active {
     text-decoration: underline;
 }
 
