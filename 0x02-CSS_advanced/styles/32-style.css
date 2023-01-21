@@ -731,7 +731,7 @@ ul.row {
     z-index: -1;
 }
 
-.card-work:hover .card-image:hover{
+.card-work:hover .card-image{
     transform: scale(1.2);
 
 }
